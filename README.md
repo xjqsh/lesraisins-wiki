@@ -1,7 +1,7 @@
 # 👋 欢迎！
 
 {% hint style="info" %}
-欢迎来到 **Lesraisins** 枪战小游戏服务器！不过，在开始游戏之前，这里有一些注意事项...
+欢迎来到 **Lesraisins** 小游戏服务器！不过，在开始游戏之前，这里有一些注意事项...
 {% endhint %}
 
 ruaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
