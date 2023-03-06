@@ -1,12 +1,12 @@
-# 👋 Welcome!
+# 👋 欢迎！
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+欢迎来到 **Lesraisins** 枪战小游戏服务器！不过，在开始游戏之前，这里有一些注意事项...
 {% endhint %}
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
+ruaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+ruaaaaaaaaaaaaaaaaaa
 
 <details>
 
