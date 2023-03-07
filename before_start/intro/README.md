@@ -6,6 +6,6 @@
 
 这一章包含了一些关于服务器的基本介绍。如果有兴趣的话，不妨了解一下？
 
-{% content-ref url="intro.md" %}
-[intro.md](intro.md)
+{% content-ref url="name.md" %}
+[name.md](name.md)
 {% endcontent-ref %}
