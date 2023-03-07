@@ -2,23 +2,10 @@
 
 * [👋 欢迎！](README.md)
 
-## About us
+## 开始之前... <a href="#before_start" id="before_start"></a>
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
-
-## Team
-
-* [👋 Meet the Team!](team/meet-the-team.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🚀 服务器介绍](before\_start/intro/README.md)
+  * [关于名字...](before\_start/intro/intro.md)
+  * [服务器历史](before\_start/intro/history.md)
+  * [Mission](before\_start/intro/mission.md)
+* [💖 Values](before\_start/values.md)

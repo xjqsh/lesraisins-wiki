@@ -1,7 +1,9 @@
 # 👋 欢迎！
 
-{% hint style="info" %}
+{% hint style="success" %}
 欢迎来到 **Lesraisins** 小游戏服务器！不过，在开始游戏之前，这里有一些注意事项...
+
+请确保 **阅读完以下全部的内容** 再开始游戏...
 {% endhint %}
 
 ruaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
